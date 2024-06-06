@@ -1,0 +1,13 @@
+dormitory/
+├── index.php
+├── login.php
+├── logout.php
+├── student_list.php
+├── accounts.php
+├── dorm_list.php
+├── rooms_list.php
+├── user_list.php
+├── settings.php
+└── includes/
+    ├── header.php
+    └── footer.php
